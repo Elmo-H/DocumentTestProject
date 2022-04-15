@@ -1,3 +1,4 @@
 "Tämä on ensimmäinen commit"
 "Tämä on ensimmäinen testi rebase lisätehtävään"
 "Tämä on toinen testi rebase lisätehtävään"
+"Tämä on kolmas testi rebase lisätehtävään"
